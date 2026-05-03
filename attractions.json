@@ -1,0 +1,115 @@
+[
+  {
+    "name": "Bako National Park",
+    "category": "Nature & National Parks",
+    "description": "A diverse national park with rainforest, wildlife and scenic trails.",
+    "link": "https://maps.google.com/?q=Bako+National+Park"
+  },
+  {
+    "name": "Gunung Mulu National Park",
+    "category": "Nature & National Parks",
+    "description": "A UNESCO site known for massive caves and rich biodiversity.",
+    "link": "https://maps.google.com/?q=Gunung+Mulu+National+Park"
+  },
+  {
+    "name": "Gunung Gading National Park",
+    "category": "Nature & National Parks",
+    "description": "Home of the Rafflesia, the world's largest flower.",
+    "link": "https://maps.google.com/?q=Gunung+Gading+National+Park"
+  },
+  {
+    "name": "Mount Santubong",
+    "category": "Nature & National Parks",
+    "description": "A popular hiking mountain with panoramic sea views.",
+    "link": "https://maps.google.com/?q=Mount+Santubong"
+  },
+
+  {
+    "name": "Teluk Assam Beach",
+    "category": "Beaches & Coastal",
+    "description": "A peaceful beach with unique rock formations.",
+    "link": "https://maps.google.com/?q=Teluk+Assam+Beach"
+  },
+  {
+    "name": "Tanjung Datu National Park",
+    "category": "Beaches & Coastal",
+    "description": "A remote park with clean beaches and sea turtles.",
+    "link": "https://maps.google.com/?q=Tanjung+Datu+National+Park"
+  },
+
+  {
+    "name": "Fairy Cave",
+    "category": "Caves & Adventure",
+    "description": "A large limestone cave with impressive formations.",
+    "link": "https://maps.google.com/?q=Fairy+Cave"
+  },
+  {
+    "name": "Wind Cave",
+    "category": "Caves & Adventure",
+    "description": "A cool cave with limestone formations and easy access.",
+    "link": "https://maps.google.com/?q=Wind+Cave"
+  },
+
+  {
+    "name": "Borneo Cultures Museum",
+    "category": "Culture & Museums",
+    "description": "The largest museum in Malaysia showcasing Borneo culture.",
+    "link": "https://maps.google.com/?q=Borneo+Cultures+Museum"
+  },
+  {
+    "name": "Sarawak Cultural Village",
+    "category": "Culture & Museums",
+    "description": "An open-air museum of traditional ethnic houses.",
+    "link": "https://maps.google.com/?q=Sarawak+Cultural+Village"
+  },
+  {
+    "name": "Islamic Heritage Museum",
+    "category": "Culture & Museums",
+    "description": "Museum showing Islamic history and culture in Sarawak.",
+    "link": "https://maps.google.com/?q=Islamic+Heritage+Museum"
+  },
+
+  {
+    "name": "Tua Pek Kong Temple",
+    "category": "City & Heritage",
+    "description": "The oldest Chinese temple in Kuching.",
+    "link": "https://maps.google.com/?q=Tua+Pek+Kong+Temple"
+  },
+  {
+    "name": "Kuching Waterfront",
+    "category": "City & Heritage",
+    "description": "A scenic riverside with shops and food.",
+    "link": "https://maps.google.com/?q=Kuching+Waterfront"
+  },
+  {
+    "name": "Fort Margherita",
+    "category": "City & Heritage",
+    "description": "A historic fort turned museum from the Brooke era.",
+    "link": "https://maps.google.com/?q=Fort+Margherita"
+  },
+  {
+    "name": "The Astana",
+    "category": "City & Heritage",
+    "description": "A historic palace and landmark in Kuching.",
+    "link": "https://maps.google.com/?q=The+Astana"
+  },
+
+  {
+    "name": "Jong’s Crocodile Farm",
+    "category": "Wildlife & Cultural Experience",
+    "description": "A wildlife park with crocodiles and feeding shows.",
+    "link": "https://maps.google.com/?q=Jongs+Crocodile+Farm"
+  },
+  {
+    "name": "Semenggoh Wildlife Centre",
+    "category": "Wildlife & Cultural Experience",
+    "description": "A rehabilitation center to see orangutans.",
+    "link": "https://maps.google.com/?q=Semenggoh+Wildlife+Centre"
+  },
+  {
+    "name": "Batang Ai Longhouse",
+    "category": "Wildlife & Cultural Experience",
+    "description": "A traditional Iban longhouse cultural experience.",
+    "link": "https://maps.google.com/?q=Batang+Ai+Longhouse"
+  }
+]
